@@ -1,0 +1,3 @@
+https://bugs.launchpad.net/ubuntu
+https://bugs.launchpad.net/ubuntukylin
+http://openscience.us/repo/defect/
